@@ -1,0 +1,29 @@
+body{
+    font-family: 'Spline Sans Mono', monospace;
+}
+h1{
+    font-size: 60px;
+    font-family: 'Spline Sans Mono', monospace;
+    
+}
+p{
+    font-size: 30px;
+    
+}
+.namehighlight{
+    color: rgb(4, 250, 4);
+}
+h3{
+    font-size: 40px;
+    color: blue;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+
+}
